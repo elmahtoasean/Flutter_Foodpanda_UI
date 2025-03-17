@@ -5,7 +5,8 @@ A new Flutter project.
 
 ## Getting Started
 
-![App Screenshot](.assets/image.png)
+![App Screenshot](https://raw.githubusercontent.com/elmahtoasean/Flutter_Foodpanda_UI/main/assets/image.png)
+
 
 
 This project is a starting point for a Flutter application.
