@@ -1,11 +1,12 @@
 <<<<<<< HEAD
 # Flutter_Foodpanda_UI
 =======
-# flutter_ui_design_one
-
 A new Flutter project.
 
 ## Getting Started
+
+![App Screenshot](assets/image.png)
+
 
 This project is a starting point for a Flutter application.
 
