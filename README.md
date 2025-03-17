@@ -5,7 +5,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![App Screenshot](assets/image.png)
+![App Screenshot](.assets/image.png)
 
 
 This project is a starting point for a Flutter application.
